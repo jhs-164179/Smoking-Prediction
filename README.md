@@ -1,5 +1,5 @@
 # Smoking-Prediction
-Enhancing Deep Learning Models for Predicting Smoking Status Using Clinical Data in Patients with COPD
+An implementation of "Enhancing Deep Learning Models for Predicting Smoking Status Using Clinical Data in Patients with COPD.", Digital Health [accepted]
 
 ## Requirements
 - shap
