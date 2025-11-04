@@ -16,6 +16,7 @@ An implementation of "Enhancing Deep Learning Models for Predicting Smoking Stat
 
 ## Install
 ```bash
+# w. python 3.10.x
 pip install -r requirements.txt
 ```
 
@@ -29,13 +30,13 @@ The experiment was conducted using survey data collected from COPD patients at t
 ## Run
 ```bash
 # impute
-impute.py
+python impute.py
 
 # parameter tuning
-tuning.py
+python tuning.py
 
 # check the shap values
-shap.py
+python shap.py
 ```
 
 ## Citation
