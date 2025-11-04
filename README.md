@@ -42,15 +42,15 @@ python shap.py
 ## Citation
 ```bash
 @article{doi:10.1177/20552076251393380,
-author = {Sehyun Cho and Hyeonseok Jin and Kyungbaek Kim and Sola Cho and Ja Yun Choi},
-title ={Enhancing deep learning models for predicting smoking Status using clinical data in patients with chronic obstructive pulmonary disease},
-journal = {DIGITAL HEALTH},
-volume = {11},
-number = {},
-pages = {20552076251393380},
-year = {2025},
-doi = {10.1177/20552076251393380},
-URL = {https://doi.org/10.1177/20552076251393380},
-eprint = {https://doi.org/10.1177/20552076251393380},
+  author = {Sehyun Cho and Hyeonseok Jin and Kyungbaek Kim and Sola Cho and Ja Yun Choi},
+  title ={Enhancing deep learning models for predicting smoking Status using clinical data in patients with chronic obstructive pulmonary disease},
+  journal = {DIGITAL HEALTH},
+  volume = {11},
+  number = {},
+  pages = {20552076251393380},
+  year = {2025},
+  doi = {10.1177/20552076251393380},
+  URL = {https://doi.org/10.1177/20552076251393380},
+  eprint = {https://doi.org/10.1177/20552076251393380},
 }
 ```
